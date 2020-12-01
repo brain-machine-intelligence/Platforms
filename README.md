@@ -13,10 +13,9 @@ We share the three Unity environments.
 **YCB objects**    : You can download the ycb models from the official website (https://www.ycbbenchmarks.com/). The prefab models should be placed in ./Asset/Prefabs/objects.
 
 
-## Intuitive physics task
-
-
 ## Recognition memory
+
+## Intuitive physics
 
 ## Spatial memory
 
