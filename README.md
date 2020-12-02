@@ -16,9 +16,10 @@ We share the three Unity environments.
 ## Recognition memory
 
 ## Intuitive physics
+Assets/Robotic_industrial_dynamic_arm/Scenes/Robot_Arm_prior_collect.unity
 
 ## Spatial memory
-
+Assets/Robotic_industrial_dynamic_arm/Scenes/SpatialMemory.unity
 
 
 
