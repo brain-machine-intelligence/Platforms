@@ -3,7 +3,7 @@ This repository contains various environments for testing human cognitive models
 
 
 # 2020-11-27
-We share the four Unity environments. 
+We share the four Unity environments. In this version, we don't support an integrated interface.
 
 ## requirements (Library + Dataset)
 **Unity 2018.3.0f2** (only tested on 3.0f2)
