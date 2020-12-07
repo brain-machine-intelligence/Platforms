@@ -3,7 +3,7 @@ This repository contains various environments for testing human cognitive models
 
 
 # 2020-11-27
-We share the three Unity environments. 
+We share the four Unity environments. 
 
 ## requirements (Library + Dataset)
 **Unity 2018.3.0f2** (only tested on 3.0f2)
@@ -22,5 +22,7 @@ Assets/Robotic_industrial_dynamic_arm/Scenes/Robot_Arm_prior_collect.unity
 ## Spatial memory
 Assets/Robotic_industrial_dynamic_arm/Scenes/SpatialMemory.unity
 
+## Uncertain pong
+Uncertain_Pong/Assets/Scenes/Mode2.unity
 
 
